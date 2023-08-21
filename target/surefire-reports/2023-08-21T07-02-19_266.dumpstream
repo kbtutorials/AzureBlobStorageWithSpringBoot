@@ -1,0 +1,5 @@
+# Created at 2023-08-21T07:02:19.843
+Boot Manifest-JAR contains absolute paths in classpath 'E:\GoPractise\Azure Blob Services\Azure-Blob-Services\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
